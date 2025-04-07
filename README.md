@@ -1,23 +1,41 @@
-# springjson-jquery
+# SpringJSON-jQuery
 
-## 1 - Description:
+![Java](https://img.shields.io/badge/Java-red?logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=white)
+![Spring Framework](https://img.shields.io/badge/Spring_Framework-brightgreen?logo=spring&logoColor=white) ![jQuery](https://img.shields.io/badge/jQuery-blue?logo=jquery&logoColor=white)  ![Bootstrap](https://img.shields.io/badge/Bootstrap-purple?logo=bootstrap&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-darkblue?logo=postgresql&logoColor=white) ![Hibernate ORM](https://img.shields.io/badge/Hibernate-beige?logo=hibernate)
+![Platform](https://img.shields.io/badge/Platform-Web-blue?logo=google-chrome)  
+![Last Commit](https://img.shields.io/github/last-commit/example/springjson-jquery?logo=github&color=yellow) ![Project Size](https://img.shields.io/github/repo-size/example/springjson-jquery?logo=files) ![License](https://img.shields.io/badge/License-MIT-black?logo=open-source-initiative)  
 
-- Registration system of person made in Java, with Spring Framework, jQuery, Hibernate. The datas are stored in the PostgreSQL database.
+---
 
-## 2 - Tools:
+## 1. Description  
+**SpringJSON-jQuery** is a registration system developed in **Java**, utilizing the **Spring Framework** and **Hibernate ORM** for back-end operations. The front-end integrates **jQuery** for dynamic interactions and **Bootstrap** for responsive design. Data is securely managed and stored in a **PostgreSQL database**.
 
-- Java SDK 1.8 (jdk1.8.0_161)
-- Spring Framework 4.0.1.RELEASE (Spring MVC)
-- jQuery 3.3.1 (JSP JAVA interaction)
-- jQuery DataTables (table's pagination)
-- jQuery MaskMoney (Masking of money's field)
-- Hibernate 4.3.1.Final
-- PostgreSQL (Version used in heroku)
-- BootStrap 3.3.7 (Front-end's Framework)
-- BootStrap DatePicker (date component for html)
+---
 
-## 3 - Features:
+## 2. Tools and Technologies  
 
-- Login (HandlerInterceptorAdapter extension)
-- Operations can only be performed by a logged-in user.
-- Upload Image
+### 2.1. Back-End  
+- **Java SDK:** Version 1.8 (jdk1.8.0_161) for back-end development.  
+- **Spring Framework:** Version 4.0.1.RELEASE (Spring MVC) for creating a robust and scalable back-end.  
+- **Hibernate ORM:** Version 4.3.1.Final for object-relational mapping and database interaction.  
+- **PostgreSQL:** Database system (Heroku-compatible version).  
+
+### 2.2. Front-End  
+- **jQuery:** Version 3.3.1 for seamless interaction between JSP and Java components.  
+- **Bootstrap:** Version 3.3.7 for responsive UI design.  
+- **Bootstrap DatePicker:** For user-friendly date selection.  
+
+### 2.3. JavaScript Libraries and Add-ons  
+- **jQuery DataTables:** Enables pagination for dynamic tables.  
+- **jQuery MaskMoney:** Adds input masking for monetary fields.  
+
+---
+
+## 3. Features  
+- **Login System:** Built with **HandlerInterceptorAdapter** to ensure that all operations are securely restricted to authenticated users.  
+- **Image Upload:** Supports uploading and managing images via integrated front-end and back-end logic.  
+- **Secure Data Handling:** Ensures efficiency and reliability in managing registration-related data.  
+
+---
+
