@@ -1,10 +1,14 @@
 # SpringJSON-jQuery
 
 ![Java](https://img.shields.io/badge/Java-red?logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=white)
+
 ![Spring Framework](https://img.shields.io/badge/Spring_Framework-brightgreen?logo=spring&logoColor=white) ![jQuery](https://img.shields.io/badge/jQuery-blue?logo=jquery&logoColor=white)  ![Bootstrap](https://img.shields.io/badge/Bootstrap-purple?logo=bootstrap&logoColor=white)
+
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-darkblue?logo=postgresql&logoColor=white) ![Hibernate ORM](https://img.shields.io/badge/Hibernate-beige?logo=hibernate)
+
 ![Platform](https://img.shields.io/badge/Platform-Web-blue?logo=google-chrome)  
-![Last Commit](https://img.shields.io/github/last-commit/example/springjson-jquery?logo=github&color=yellow) ![Project Size](https://img.shields.io/github/repo-size/example/springjson-jquery?logo=files) ![License](https://img.shields.io/badge/License-MIT-black?logo=open-source-initiative)  
+
+![Last Commit](https://img.shields.io/github/last-commit/example/springjson-jquery?logo=github&color=yellow) 
 
 ---
 
